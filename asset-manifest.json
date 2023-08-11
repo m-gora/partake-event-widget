@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/partake-event-widget/static/css/main.e6c13ad2.css",
+    "main.js": "/partake-event-widget/static/js/main.4fde1409.js",
+    "static/js/787.6da210f6.chunk.js": "/partake-event-widget/static/js/787.6da210f6.chunk.js",
+    "index.html": "/partake-event-widget/index.html",
+    "main.e6c13ad2.css.map": "/partake-event-widget/static/css/main.e6c13ad2.css.map",
+    "main.4fde1409.js.map": "/partake-event-widget/static/js/main.4fde1409.js.map",
+    "787.6da210f6.chunk.js.map": "/partake-event-widget/static/js/787.6da210f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4fde1409.js"
+  ]
+}
